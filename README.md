@@ -2,7 +2,7 @@
 
 [![visitor](https://visitor-badge.laobi.icu/badge?page_id=fahlisaputra)](https://github.com/fahlisaputra) [![GitHub followers](https://img.shields.io/github/followers/fahlisaputra.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/fahlisaputra?tab=followers)
 
-I'm Muhammad Fahli Saputra! I'm a fullstack software engineer, creating technology to elevate people and building community. I enjoy working with Java, PHP, Javascript, and .NET. In 2020, I got a silver medal in the Lomba Kompetensi Siswa Nasional SMK (LKS SMK) on IT Software Solution for Business.
+I'm Muhammad Fahli Saputra! I'm a fullstack software engineer, creating technology to elevate people and building community. I enjoy working with Java, PHP, Javascript, HTML, CSS and .NET. In 2020, I got a silver medal in the Lomba Kompetensi Siswa Nasional SMK (LKS SMK) on IT Software Solution for Business.
 
 <h2>💻 Learning and Certifications</h2>
 I'm a student at Informatics Engineering Department of State University of Malang, Indonesia.
