@@ -25,10 +25,8 @@ I have some certifications in software and networking:
 - Sharing tutorial video on [YouTube](https://www.youtube.com/channel/UCdyDI0XKp463I4uIChquTFA)
 - Social media on [instagram.com/faahli](https://instagram.com/faahli)
 
-[![Summary widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fahlisaputra&show-header=true)](https://profile.codersrank.io/user/fahlisaputra)
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fahlisaputra&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=fahlisaputra&amp;show_icons=true">
 <!--
 **fahlisaputra/fahlisaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
