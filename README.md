@@ -28,8 +28,8 @@ I have some certifications in software and networking:
 <br>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahlisaputra&amp;show_icons=true&count_private=true">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=fahlisaputra&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="fahlisaputra" >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fahlisaputra&amp;show_icons=true&count_private=true">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=fahlisaputra&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="fahlisaputra" >
 </p>
 
 <!--
