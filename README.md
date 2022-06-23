@@ -27,12 +27,14 @@ I have some certifications in software and networking:
 
 <br>
 
+<h2> Now Playing:</h2>
+[![Spotify](https://spotify-now-playing-faahli.vercel.app/api/spotify/?background_color=fffff&border_color=fffff)](https://open.spotify.com/user/31k7xziurnejhppofm25qvqzpyeu)
+
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fahlisaputra&amp;show_icons=true&count_private=true">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=fahlisaputra&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="fahlisaputra" >
 </p>
 
-[![Spotify](https://spotify-now-playing-faahli.vercel.app/api/spotify/?background_color=fffff&border_color=fffff)](https://open.spotify.com/user/31k7xziurnejhppofm25qvqzpyeu)
 <!--
 **fahlisaputra/fahlisaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
