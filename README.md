@@ -26,7 +26,13 @@ I have some certifications in software and networking:
 - Social media on [instagram.com/faahli](https://instagram.com/faahli)
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=fahlisaputra&amp;show_icons=true">
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahlisaputra&amp;show_icons=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fahlisaputra&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="fahlisaputra" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=fahlisaputra&amp;show_icons=true&count_private=true">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fahlisaputra&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
