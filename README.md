@@ -4,6 +4,10 @@
 
 I'm Muhammad Fahli Saputra! I'm a fullstack software engineer, creating technology to elevate people and building community. I enjoy working with Java, PHP, Javascript, HTML, CSS and .NET. In 2020, I got a silver medal in the Lomba Kompetensi Siswa Nasional SMK (LKS SMK) on IT Software Solution for Business.
 
+<p> Now Playing:</p>
+
+[![Spotify](https://spotify-now-playing-faahli.vercel.app/api/spotify/?background_color=fffff&border_color=fffff)](https://open.spotify.com/user/31k7xziurnejhppofm25qvqzpyeu)
+
 <h2>💻 Learning and Certifications</h2>
 I'm a student at Informatics Engineering Department of State University of Malang, Indonesia.
 
@@ -26,10 +30,6 @@ I have some certifications in software and networking:
 - Social media on [instagram.com/faahli](https://instagram.com/faahli)
 
 <br>
-
-<p> Now Playing:</p>
-
-[![Spotify](https://spotify-now-playing-faahli.vercel.app/api/spotify/?background_color=fffff&border_color=fffff)](https://open.spotify.com/user/31k7xziurnejhppofm25qvqzpyeu)
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fahlisaputra&amp;show_icons=true&count_private=true">
