@@ -28,6 +28,7 @@ I have some certifications in software and networking:
 <br>
 
 <h2> Now Playing:</h2>
+
 [![Spotify](https://spotify-now-playing-faahli.vercel.app/api/spotify/?background_color=fffff&border_color=fffff)](https://open.spotify.com/user/31k7xziurnejhppofm25qvqzpyeu)
 
 <p align="center">
