@@ -8,6 +8,8 @@ I'm Muhammad Fahli Saputra! I'm a fullstack software engineer, creating technolo
 
 [![Spotify](https://spotify-now-playing-faahli.vercel.app/api/spotify/?background_color=fffff&border_color=fffff)](https://open.spotify.com/user/31k7xziurnejhppofm25qvqzpyeu)
 
+<img height="100em" src="https://spotify-now-playing-faahli.vercel.app/api/spotify/?background_color=fffff&border_color=fffff">
+
 <h2>💻 Learning and Certifications</h2>
 I'm a student at Informatics Engineering Department of State University of Malang, Indonesia.
 
