@@ -36,6 +36,10 @@ I have some certifications in software and networking:
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=fahlisaputra&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="fahlisaputra" >
 </p>
 
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fahli&layout=compact">
+</p>
+
 <!--
 **fahlisaputra/fahlisaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
