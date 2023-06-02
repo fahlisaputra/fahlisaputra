@@ -39,7 +39,7 @@ I have some certifications in software and networking:
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fahli&layout=compact">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fahli">
 </p>
 
 <!--
